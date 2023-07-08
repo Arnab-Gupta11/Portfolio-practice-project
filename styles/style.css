@@ -152,3 +152,66 @@
   background: #fff;
   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
+
+/* Resume section style */
+.resume-section {
+  margin-top: 130px;
+}
+.resume-container {
+  display: flex;
+  gap: 70px;
+  margin-top: 113px;
+}
+.colum-title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
+.resume-item-title {
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.resume-item-institution {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.resum-item-desc {
+  margin-top: 0px;
+  color: #757575;
+  font-size: 16px;
+  font-weight: 400;
+}
+.experience-title {
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.experience-institution {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.experience-desc {
+  margin-top: 0px;
+  color: #757575;
+  font-size: 16px;
+  font-weight: 400;
+}
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.download-button {
+  margin-top: 69px;
+  display: block;
+  margin: 69px auto;
+}
