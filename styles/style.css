@@ -53,6 +53,9 @@
 /* header style */
 .header {
   background: #fff8f3;
+  background-image: url(../images/developer.png);
+  background-position: left;
+  background-repeat: no-repeat;
 }
 
 /* banner style */
@@ -229,6 +232,7 @@ hr {
   font-size: 35px;
   font-weight: 700;
   text-align: left;
+  margin-bottom: 0px;
 }
 .footer-colum {
   width: 50%;
